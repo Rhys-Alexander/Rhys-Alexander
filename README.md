@@ -7,10 +7,6 @@ I tutor Python and have also taught JS.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Alexander&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects
-
-
-
 #### Find me
 
 <p>
