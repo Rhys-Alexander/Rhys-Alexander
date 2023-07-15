@@ -45,9 +45,6 @@ I've been a Python tutor, I've taught Coding Bootcamps in JS and Python, and I l
 #### Contact me, let's work together!
 
 <p>
-  <a href="mailto:rhys.wa@icloud.com">
-    <img alt="iCloud" src="https://img.shields.io/badge/iCloud-%2312100E.svg?&style=for-the-badge&logo=iCloud&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/rhys-alexander-7a390b252/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%237289da.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
