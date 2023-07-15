@@ -3,25 +3,22 @@
 <img src="https://universitas21.com/sites/default/files/styles/scale_640_w/public/2018-04/1200px-BirminghamUniversityCrest.svg_.png?itok=kxhnaaLp" width="75" align="right" title="University of Birmingham">
 
 I'm Rhys Alexander, a sofware engineer studing Arificial Intelligence at the University Of Birmingham.<br>
-I'm currently doing a sofware engineer internship at Esri Writing in C, C++, and Rust.<br>
+I'm currently doing a sofware engineer internship at Esri Writing in C++, and Rust.<br>
 I've been a Python tutor, I've taught Coding Bootcamps in JS and Python, and I love Computer Vision.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Alexander&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="left">Languages and Tools:</h4>
   <p align="left">
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://rustacean.net/assets/cuddlyferris.png" alt="Rust" height="40"/> 
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40"/> 
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="40"/> 
-    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> 
     </a> 
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40"/> 
+    </a>
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://rustacean.net/assets/cuddlyferris.png" alt="Rust" height="40"/> 
+    </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="40"/> 
     </a>
