@@ -1,4 +1,4 @@
-### Let's solve the world's problems by solving intelligence first
+### Let's solve the greatest problem, intelligence
 
 <img src="https://universitas21.com/sites/default/files/styles/scale_640_w/public/2018-04/1200px-BirminghamUniversityCrest.svg_.png?itok=kxhnaaLp" width="75" align="right" title="University of Birmingham">
 
