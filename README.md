@@ -4,6 +4,5 @@
 
 I study Arificial Intelligence at the University Of Birmingham.<br>
 I love programming because I love to problem solve, I love AI because it is the ultimate solution.<br>
-I'm currently developing GIS technology as a sofware engineer intern at Esri Writing in C++, Rust, and C#.<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhys-Alexander&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
